@@ -14,3 +14,4 @@ Metamorphic Javascript | Code that is minified and mangled into an extremely den
 Hypomorphic Javascript | Where code is written within the same global scope and relies on mutation.
 Polymorphic Javascript | Where the code has enough love for many repos.
 Apotheomorphic Javascript | Where code becomes God-like in its expression and power.
+Anthropomorphic Javascript | Where you swear your code has human characteristics aka a personality
