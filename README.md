@@ -16,5 +16,6 @@ Isographic JavaScript | JavaScript is any JavaScript written by mimicking the st
 Hypomorphic JavaScript | Where code is written within the same global scope and relies on mutation.
 Mightymorphic JavaScript | Where code assembles together from many smaller files asynchronously.
 Polymorphic JavaScript | Where the code has enough love for many repos.
+Xenomorphic JavaScript | Where the code is written in CoffeeScript.
 Apotheomorphic JavaScript | Where code becomes God-like in its expression and power.
 Anthropomorphic JavaScript | Where you swear your code has human characteristics aka a personality
