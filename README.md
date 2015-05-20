@@ -14,6 +14,7 @@ Homeopathic JavaScript | Only contains trace errors, but they have the effective
 Metamorphic Javascript | Code that is minified and mangled into an extremely dense form that can run on the server or the browser.
 Isographic JavaScript | JavaScript is any JavaScript written by mimicking the style of another programmer.
 Hypomorphic JavaScript | Where code is written within the same global scope and relies on mutation.
+Mightymorphic JavaScript | Where code assembles together from many smaller files asynchronously.
 Polymorphic JavaScript | Where the code has enough love for many repos.
 Apotheomorphic JavaScript | Where code becomes God-like in its expression and power.
 Anthropomorphic JavaScript | Where you swear your code has human characteristics aka a personality
